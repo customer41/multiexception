@@ -1,0 +1,8 @@
+{
+  "name": "customer41/multiexception",
+  "description": "This is a simple package for education purposes, that implements the concept of 'multiexceptions'",
+  "version": "1.0.0",
+  "autoload": {
+    "classmap": ["MultiException.php"]
+  }
+}
