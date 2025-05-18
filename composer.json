@@ -1,0 +1,18 @@
+{
+    "name": "customer41/multiexception",
+    "description": "It's a simple package for managing multiple exceptions",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Customer41\\MultiException\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Popov",
+            "email": "alien1986cs@gmail.com"
+        }
+    ],
+    "require": {}
+}
