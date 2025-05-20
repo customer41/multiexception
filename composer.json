@@ -14,5 +14,7 @@
             "email": "alien1986cs@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.0"
+    }
 }
